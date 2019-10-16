@@ -107,14 +107,6 @@
 - [time.time()](https://docs.python.org/3/library/time.html)  
 
 ## Python Libraries
-- [Numpy](https://numpy.org/): Scientific computing with Python  
-- [Pandas](https://pandas.pydata.org/): High-performance, easy-to-use data structures and data analysis tools  
-- [Scikit-learn](https://scikit-learn.org/stable/): Tools for data mining and data analysis and machine learning in Python  
-- [Matplotlib](https://matplotlib.org/): 2D plotting library  
-- [Seaborn](https://seaborn.pydata.org/): Data visualization library based on matplotlib.  
-- [Pytorch](https://pytorch.org/): Open source machine learning framework  
-- [Keras](https://keras.io/): High-level neural networks API  
-- [Tensorflow](https://www.tensorflow.org/): Core open source library to develop and train ML models  
 - [argparse](https://docs.python.org/3/library/argparse.html): Write user-friendly command-line interfaces  
 - [beautifulsoup](https://pypi.org/project/beautifulsoup4/): Pull data out of HTML and XML files  
 - [bert-as-a-service](https://github.com/hanxiao/bert-as-service): Generate BERT Embeddings for production  
@@ -173,14 +165,17 @@
 - [pyspark](https://pypi.org/project/pyspark/): Apache Spark Python API  
 - [pytest](https://pypi.org/project/pytest/): pytest: simple powerful testing with Python  
 - [python-dotenv](https://pypi.org/project/python-dotenv/): Add .env support to your django/flask apps in development and deployments  
+- [pytorch](https://pytorch.org/): Open source machine learning framework  
 - [pytorch-transformers](https://github.com/huggingface/transformers): State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch  
 - [pyyaml](https://pypi.org/project/PyYAML/): YAML 1.1 parser  
 - [rasterio](https://pypi.org/project/rasterio/): Reads and writes GeoTIFF formats and provides a Python API based on N-D arrays  
 - [re](https://docs.python.org/3/library/re.html): Regular expression matching operations  
 - [requests](https://pypi.org/project/requests/): HTTP library for Python  
 - [scikit-image](https://scikit-image.org/): Collection of algorithms for image processing  
+- [scikit-learn](https://scikit-learn.org/stable/): Tools for data mining and data analysis and machine learning in Python  
 - [scikit-surprise](https://pypi.org/project/scikit-surprise/): Python RecommendatIon System Engine  
 - [scrapy](https://scrapy.org/): Framework for extracting the data you need from websites  
+- [seaborn](https://seaborn.pydata.org/): Data visualization library based on matplotlib.  
 - [selenium](https://selenium-python.readthedocs.io/): Provides a simple API to write functional/acceptance tests using Selenium WebDriver  
 - [shap](https://github.com/slundberg/shap): Explain the output of any machine learning model  
 - [shutil](https://docs.python.org/3/library/shutil.html): Offers a number of high-level operations on files and collections of files  
@@ -188,6 +183,7 @@
 - [sqlalchemy](https://www.sqlalchemy.org/): Python SQL toolkit  
 - [sympy](https://www.sympy.org/): Python library for symbolic mathematics  
 - [tabulapy](https://pypi.org/project/tabula-py/): Python wrapper of tabula-java, which can read table of PDF  
+- [tensorflow](https://www.tensorflow.org/): Core open source library to develop and train ML models  
 - [tqdm](https://tqdm.github.io/): Displays progress bar for list iterations  
 - [urllib](https://docs.python.org/3/library/urllib.html): Collects several modules for working with URLs  
 - [xgboost](https://xgboost.readthedocs.io/en/latest/index.html): Distributed gradient boosting library   
